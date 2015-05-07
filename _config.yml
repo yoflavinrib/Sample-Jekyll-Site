@@ -31,7 +31,6 @@ url: http://yoflavinrib.github.io/Sample-Jekyll-Site
 markdown: rdiscount
 
 prose:
-  rooturl: '_posts'
   siteurl: 'http://yoflavinrib.github.io/Sample-Jekyll-Site'
   relativeLinks: 'http://yoflavinrib.github.io/Sample-Jekyll-Site/links.jsonp'
   media: 'media'
